@@ -45,8 +45,12 @@ const DashboardSidebar: React.FC = () => {
     <div className="w-64 bg-dashboard-sidebar border-r border-border p-6 flex flex-col">
       {/* Logo */}
       <div className="flex items-center gap-3 mb-8">
-        <div className="w-8 h-8 bg-foreground rounded-lg flex items-center justify-center">
-          <span className="text-white text-sm font-bold">R</span>
+        <div className="w-8 h-8 bg-foreground rounded-lg flex items-center justify-center overflow-hidden">
+          <img 
+            src="/radar36logo.jpeg" 
+            alt="Logo" 
+            className="w-full h-full object-cover"
+          />
         </div>
         <span className="text-lg font-semibold">Radar 36</span>
       </div>
