@@ -4,9 +4,10 @@ A pixel-perfect SaaS Dashboard UI built with React, TypeScript, and Tailwind CSS
 
 A short screen recording of the working application is included in this repo:
 
-<video controls src="20250921-1729-34.4597164.mp4" title="Title"></video>
+<!-- <video controls src="20250921-1729-34.4597164.mp4" title="Title"></video> -->
+<video controls src="https://drive.google.com/file/d/1GZdQgqLogn-VnbPYSrtdsJhZ6SfyHFWT/view?usp=sharing" title="Title"></video>
 
-
+https://drive.google.com/file/d/1GZdQgqLogn-VnbPYSrtdsJhZ6SfyHFWT/view?usp=sharing
 
 
 
